@@ -10,7 +10,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 # setting vim
-git clone https://github.com/chusiang/vimrc.git --depth=1
+git clone https://github.com/chusiang/vimrc.git --depth=1 ~/
 
 cp ./zshrc ~/.zshrc
 cp ./tmux.conf ~/.tmux.conf
