@@ -7,15 +7,14 @@ git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/theme
 git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
 
-git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+#git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 # setting vim
 git clone https://github.com/chusiang/vimrc.git --depth=1 ~/
 
 cp ./zshrc ~/.zshrc
-cp ./tmux.conf ~/.tmux.conf
+#cp ./tmux.conf ~/.tmux.conf
 cp ./vimrc ~/.vimrc
 
-cd vimrc
 
 
